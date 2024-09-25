@@ -14,7 +14,8 @@
 > git bash -> [코드입력] $ git lfs install-> [코드입력] $ git lfs pull
 
 
-> 
+# 유튜브 링크 : https://youtu.be/mwvs0Z0WbhM   <img src="https://img.shields.io/badge/Youtube-D1180B?style=flat-square&logo=youtube&logoColor=white"/>
+
 ![ChaseJeon_Unity_Project-Thumbnail](https://github.com/user-attachments/assets/3f67bc6d-50c9-4b46-b484-5c23fe952996)
 
 
