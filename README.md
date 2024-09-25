@@ -7,7 +7,7 @@
 > Google Drive : https://drive.google.com/drive/u/0/folders/1YJPKqmRejSgIgCYbwOvJFU6wneC7N1-v
 
 **->Git LFS가 설치되어 있는 경우**
-> git bash -> [코드입력] $ git lfs pull
+> git bash -> [코드입력] $ git lfs install-> [코드입력] $ git lfs pull
 
 
 > 
