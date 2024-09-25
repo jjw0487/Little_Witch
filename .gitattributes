@@ -1,1 +1,2 @@
 Build/Little[[:space:]]Witch_Data/level1 filter=lfs diff=lfs merge=lfs -text
+Build/Little[[:space:]]Witch_Data/sharedassets1.assets filter=lfs diff=lfs merge=lfs -text
